@@ -6,7 +6,7 @@
 原圖
 ![__kochiya_sanae_touhou_drawn_by_semimaru_user_zzuy5884__sample-a27e63013e0d4465a326677d972409e0](https://github.com/ga544523/midterm_project/assets/60171274/66cc9b79-4930-4e17-9a52-46d3b092393c)
 原圖
-
+<https://twitter.com/_aya0227/status/1089890288661782534>
 
 去背景後的圖 嘴巴部分用小畫家把嘴補上的..
 
