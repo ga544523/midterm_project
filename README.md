@@ -8,10 +8,10 @@
 
 
 
+![Frame-01194](https://github.com/ga544523/midterm_project/assets/60171274/6f83fa13-ae40-469a-9fcb-b50029ac0145)
 影片
 
 
+https://youtu.be/RzrLtAhtvJU
 
-
-https://github.com/ga544523/midterm_project/assets/60171274/e2ba5714-f824-47ef-a6cc-118682744977
 
