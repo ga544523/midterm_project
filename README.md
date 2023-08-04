@@ -17,7 +17,7 @@
 
 
 ![Frame-01194](https://github.com/ga544523/midterm_project/assets/60171274/6f83fa13-ae40-469a-9fcb-b50029ac0145)
-影片
+影片demo
 
 
 https://youtu.be/RzrLtAhtvJU
