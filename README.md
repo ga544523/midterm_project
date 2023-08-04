@@ -9,5 +9,9 @@
 
 
 影片
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RzrLtAhtvJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+https://github.com/ga544523/midterm_project/assets/60171274/e2ba5714-f824-47ef-a6cc-118682744977
 
